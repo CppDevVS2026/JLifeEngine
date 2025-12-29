@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="JLifeEngine.vcxproj" Id="2c468b93-01f4-4dab-9882-b4f6622ce132" />
+</Solution>
