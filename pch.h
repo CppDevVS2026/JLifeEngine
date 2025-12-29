@@ -9,5 +9,11 @@
 
 // add headers that you want to pre-compile here
 #include "framework.h"
+#include <thread>
+#include <atomic>
+#include <chrono>
+#include <print>
+#include <iostream>
+
 
 #endif //PCH_H
